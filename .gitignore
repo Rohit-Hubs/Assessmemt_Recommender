@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+chroma_db/
+sample_conversations/
+sample_conversations.zip
+shl_product_catalog.json
